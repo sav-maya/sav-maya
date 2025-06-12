@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sav-maya
-- 👀 I’m interested in databases, full-stack, authentication. 
-- 🌱 I’m currently learning postgreSQL
-- 📫 How to reach me X:@sav_sql
+- 👀 I specialize in OLTP databases, full-stack, authentication. 
+- 🌱 I’m currently learning AI frameworks. 
+- 📫 How to reach me X:@savsql
 - 😄 Pronouns: she/her
 
 <!---
