@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sav-maya
+- Based in Seattle, WA
 - 👀 I specialize in OLTP databases, full-stack, authentication. 
 - 🌱 I’m currently learning AI frameworks. 
 - 📫 How to reach me X:@savsql
