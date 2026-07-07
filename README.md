@@ -2,7 +2,7 @@
 - Based in Seattle, WA
 - 👀 I specialize in OLTP databases, postgres, mysql, full-stack, and authentication. 
 - 🌱 I’m currently learning AI frameworks.
-- Personal website: savsql.com
+- Personal website: www.savsql.com/
 - 📫 How to reach me
 -   X:@savsql
 -   Linkedin: https://www.linkedin.com/in/savannah-longoria/
